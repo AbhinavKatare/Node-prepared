@@ -1,2 +1,0 @@
-Hello, this is a data file.
-This line is appended to the data file.

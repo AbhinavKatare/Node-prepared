@@ -1,2 +1,0 @@
-Hello, this is an async data file.
-This line is appended to the async data file.
